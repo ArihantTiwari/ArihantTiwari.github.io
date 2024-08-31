@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Locations of key files/directories
-
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1F3PMuwR_zzanCymaRp3h9ODZVq2zQL0&ehbc=2E312F" width="640" height="480"></iframe>
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
