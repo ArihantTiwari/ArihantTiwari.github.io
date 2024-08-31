@@ -10,7 +10,8 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/Arihant_CV.pdf
     
   - title: "Publications"
     url: /publications/
