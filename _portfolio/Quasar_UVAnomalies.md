@@ -1,6 +1,6 @@
 ---
 title: "Detection and Analysis of Quasar UV-Spectroscopic Anomalies"
-excerpt: "SMaster's Thesis Project with Dr. Vivek M at IIA Bengaluru. <br/><img src='/images/Projects/Anomaly_All_Composites.png' width='600px' style='margin-right: 15px;'/>"
+excerpt: "Master's Thesis Project with Dr. Vivek M at IIA Bengaluru. <br/><img src='/images/Projects/Anomaly_All_Composites.png' width='600px' style='margin-right: 15px;'/>"
 collection: project
 ---
 
