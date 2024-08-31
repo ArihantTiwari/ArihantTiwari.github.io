@@ -4,7 +4,7 @@ excerpt: "
 <div style='display: flex; align-items: center;'>
   <img src='/images/Projects/Anomaly_All_Composites.png' width='600px' style='margin-right: 15px;'/>
   <div>
-    Master's Thesis Project with Dr. Vivek M at IIA Bengaluru.
+    ## Master's Thesis Project with Dr. Vivek M at IIA Bengaluru.
   </div>
 </div>"
 collection: project
