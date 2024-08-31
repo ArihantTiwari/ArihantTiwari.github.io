@@ -1,6 +1,6 @@
 ---
 title: "Detection and Analysis of Quasar UV-Spectroscopic Anomalies"
-excerpt: "Short description of portfolio item number 1<br/><img src='images/Projects/Anomaly_All_Composites.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='images/Projects/Anomaly_All_Composites.png' width='600px'>"
 collection: portfolio
 ---
 
