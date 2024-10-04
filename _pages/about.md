@@ -29,9 +29,10 @@ I have had the chance to do my BSMS Dual Integrated degree at the Indian Institu
 <div class="row">
 	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
 	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
-	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
- 
-
+	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/mcmaster-logo-2024-col.jpg">
+ 	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IA_logo_bitmap-rgbblack-1200px.png">
+  	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Technology_Bombay_Logo.svg">
+ 	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/raman-research-institute-TKwoJGT4M.png">
 </div></div>
 
 Site-wide configuration
