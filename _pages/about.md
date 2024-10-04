@@ -21,14 +21,20 @@ My current research areas include:
 
 Details about my work can be found in the "[Projects](https://arihanttiwari.github.io/portfolio/)" tab.
 
-Getting started
+Education and Training
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I have had the chance to do my BSMS Dual Integrated degree at the Indian Institute of Science Education and Research, Bhopal. I also got research training through internships at the Indian Institute of Astrophysics, India, McMaster University, Canada, Instituto de Astrofísica e Ciências do Espaço, Portugal, Raman Research Institute, and IIT Bombay, India. 
+
+<div class="text-center">
+<div class="row">
+
+  <img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+  <img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+
+</div></div>
 
 Site-wide configuration
 ------
