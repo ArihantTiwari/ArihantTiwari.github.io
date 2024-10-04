@@ -27,12 +27,12 @@ I have had the chance to do my BSMS Dual Integrated degree at the Indian Institu
 
 <div class="text-center">
   <div class="row">
-    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
-    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
-    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/mcmaster-logo-2024-col.jpg">
-    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/IA_logo_bitmap-rgbblack-1200px.png">
-    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Technology_Bombay_Logo.svg">
-    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/raman-research-institute-TKwoJGT4M.png">
+    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
+    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
+    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/mcmaster-logo-2024-col.jpg">
+    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/IA_logo_bitmap-rgbblack-1200px.png">
+    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Technology_Bombay_Logo.svg">
+    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/raman-research-institute-TKwoJGT4M.png">
   </div>
 </div>
 
@@ -47,7 +47,6 @@ I have had the chance to do my BSMS Dual Integrated degree at the Indian Institu
   .logo {
     width: 100px; /* Set the desired width */
     height: 100px; /* Set the desired height */
-    border-radius: 50%; /* Makes the image circular */
     object-fit: cover; /* Ensures the image scales well */
   }
 </style>
