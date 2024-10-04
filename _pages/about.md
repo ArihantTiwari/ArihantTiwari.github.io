@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate of [IISER Bhopal](https://phy.iiserb.ac.in/) with a Physics major and a Data Science minor Masters degree. Currently, I am working as a researcher specializing in quasars and machine learning in astrophysics at the [Indian Institute of Astrophysics](https://www.iiap.res.in/) with [Dr. Vivem M](https://getkeviv.wixsite.com/vivekm). 
+I am a graduate of [IISER Bhopal](https://phy.iiserb.ac.in/) with a Physics major and a Data Science minor Masters degree. Currently, I am working as a researcher specializing in quasars and machine learning in astrophysics at the [Indian Institute of Astrophysics](https://www.iiap.res.in/) with [Dr. M Vivek](https://getkeviv.wixsite.com/vivekm). 
 
 Research Overview
 ======
