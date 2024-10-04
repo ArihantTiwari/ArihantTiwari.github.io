@@ -27,12 +27,10 @@ I have had the chance to do my BSMS Dual Integrated degree at the Indian Institu
 
 <div class="text-center">
 <div class="row">
-
-  <img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-  <img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
+	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
+	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
+ 
 
 </div></div>
 
