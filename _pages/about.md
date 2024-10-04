@@ -17,6 +17,7 @@ My current research areas include:
 - Quasar spectroscopic anomaly detection from SDSS data.
 - Finding a groupings scheme for BAL variability patterns.
 - Characterization of anomalous quasars through multi-wavelength astronomy.
+- SMBHs and evolution of primordial galaxies.
 
 Details about my work can be found in the "[Projects](https://arihanttiwari.github.io/portfolio/)" tab.
 
