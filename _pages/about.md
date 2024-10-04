@@ -52,6 +52,7 @@ I have had the chance to do my BSMS Dual Integrated degree at the Indian Institu
   }
 </style>
 
+
 I also had the chance to attend summer schools at Zwicky Transit Facility (ZTF), Carl Sagan Summer School, IUCAA Summer School, IIA Summer School and astronomy conferences at SciOPS'22 Germany and ASI'24, India.
 
 <div class="text-center">
