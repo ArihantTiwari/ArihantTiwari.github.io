@@ -45,7 +45,7 @@ I have had the chance to do my BSMS Dual Integrated degree at the Indian Institu
   }
 
   .logo {
-    width: 100px; /* Set the desired width */
+    /*width: 100px; /* Set the desired width */
     height: 100px; /* Set the desired height */
     object-fit: cover; /* Ensures the image scales well */
   }
