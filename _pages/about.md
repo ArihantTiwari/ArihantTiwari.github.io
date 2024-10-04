@@ -26,14 +26,31 @@ Education and Training
 I have had the chance to do my BSMS Dual Integrated degree at the Indian Institute of Science Education and Research, Bhopal. I also got research training through internships at the Indian Institute of Astrophysics, India, McMaster University, Canada, Instituto de Astrofísica e Ciências do Espaço, Portugal, Raman Research Institute, and IIT Bombay, India. 
 
 <div class="text-center">
-<div class="row">
-	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
-	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
-	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/mcmaster-logo-2024-col.jpg">
- 	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/IA_logo_bitmap-rgbblack-1200px.png">
-  	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Technology_Bombay_Logo.svg">
- 	<img  class="img-circle" src="https://arihanttiwari.github.io/images/Logos/raman-research-institute-TKwoJGT4M.png">
-</div></div>
+  <div class="row">
+    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/IISERB_logo.png">
+    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
+    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/mcmaster-logo-2024-col.jpg">
+    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/IA_logo_bitmap-rgbblack-1200px.png">
+    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Technology_Bombay_Logo.svg">
+    <img class="img-circle logo" src="https://arihanttiwari.github.io/images/Logos/raman-research-institute-TKwoJGT4M.png">
+  </div>
+</div>
+
+<style>
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px; /* Adjust spacing between images */
+  }
+
+  .logo {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image scales well */
+  }
+</style>
 
 Site-wide configuration
 ------
