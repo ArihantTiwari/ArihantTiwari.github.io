@@ -59,7 +59,6 @@ I also had the chance to attend summer schools at Zwicky Transit Facility (ZTF),
     <img class="logo" src="https://arihanttiwari.github.io/images/Logos/ZTF.png">
     <img class="logo" src="https://arihanttiwari.github.io/images/Logos/NexSci.jpg">
     <img class="logo" src="https://arihanttiwari.github.io/images/Logos/IUCAA_Logo.png">
-    <img class="logo" src="https://arihanttiwari.github.io/images/Logos/Indian_Institute_of_Astrophysics_Logo.svg.png">
     <img class="logo" src="https://arihanttiwari.github.io/images/Logos/SciOPS.png">
     <img class="logo" src="https://arihanttiwari.github.io/images/Logos/asi_logo.jpg">
     
