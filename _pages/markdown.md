@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Other than Astrophysics ..."
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Places I have visited ( a never-ending bucket list)
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1F3PMuwR_zzanCymaRp3h9ODZVq2zQL0&ehbc=2E312F&noprof=1" width="740" height="580"></iframe>
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
