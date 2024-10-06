@@ -9,18 +9,7 @@ redirect_from:
 
 ## Places I have visited ( a never-ending bucket list)
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1F3PMuwR_zzanCymaRp3h9ODZVq2zQL0&ehbc=2E312F&noprof=1" width="740" height="580"></iframe>
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+I have a passion for traveling, especially the places that offer a window to ancient civilizations, or mesmerizing views of nature. On any given day, it's a no-brainer for ne to pick up hiking or a visit to the museum over anything else. 
 
 ## Tips and hints
 
