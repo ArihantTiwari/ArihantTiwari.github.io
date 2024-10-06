@@ -1,6 +1,6 @@
 ---
-title: "Detection and Analysis of Quasar Spectroscopic Anomalies"
-excerpt: "Master's Thesis Project with Dr. Vivek M at IIA Bengaluru. <br/><img src='/images/Projects/Anomaly_All_Composites.png' width='600px' style='margin-right: 15px;'/>"
+title: "Parallel Galaxy Simulations and Analysis"
+excerpt: "MITACS GRI'23 Project with Dr. James Wadsley at McMaster University, Hamilton, ON, Canada. <br/><img src='images/Projects/McMaster_Project.png' width='600px' style='margin-right: 15px;'/>"
 collection: project
 ---
 
