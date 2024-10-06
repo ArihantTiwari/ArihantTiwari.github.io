@@ -1,6 +1,6 @@
 ---
 title: "Parallel Galaxy Simulations and Analysis"
-excerpt: "MITACS GRI'23 Project with Dr. James Wadsley at McMaster University, Hamilton, ON, Canada. <br/><img src='images/Projects/McMaster_Project.png' width='600px' style='margin-right: 15px;'/>"
+excerpt: "MITACS GRI'23 Project with Dr. James Wadsley at McMaster University, Hamilton, ON, Canada. <br/><img src='/images/Projects/McMaster_Project.png' width='600px' style='margin-right: 15px;'/>"
 collection: project
 ---
 
