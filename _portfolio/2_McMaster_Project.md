@@ -4,6 +4,7 @@ excerpt: "MITACS GRI'23 Project with Dr. James Wadsley at McMaster University, H
 collection: project
 ---
 
+<p style="text-align: justify;">
 As a part of BESPOKE/MUGS3 collaboration, the goal of the project was to produce close simulated matches to
 nearby galaxies including several aspects simultaneously: star formation rates and properties of star clusters, stel-
 lar and dark matter dynamics, gas distribution and phases, molecular cloud properties, turbulence and magnetic
@@ -12,3 +13,4 @@ spread than the galaxy population as a whole which provided a stringent test of 
 and how these relation fundamentally arise from the properties specific to each galaxy. A paper concluding the
 finding is under review in MNRAS. The project had several participants including faculty, postdocs and graduate
 students both at McMaster University and internationally.
+</p>
